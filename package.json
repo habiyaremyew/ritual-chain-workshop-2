@@ -1,0 +1,13 @@
+{
+  "name": "pulse-prediction",
+  "version": "1.0.0",
+  "description": "Price pulse scanner for price movement pattern detection",
+  "main": "pulse-scanner.js",
+  "scripts": {
+    "start": "node pulse-demo.js",
+    "test": "node pulse-demo.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
